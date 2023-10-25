@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "BinarySearch.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BinarySearch.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BinarySearch.Core.dll": {}
+        }
+      },
+      "BinarySearch.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "BinarySearch.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BinarySearch.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BinarySearch.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BinarySearch.Core/1.0.0": {
+      "type": "project",
+      "path": "../BinarySearch.Core/BinarySearch.Core.csproj",
+      "msbuildProject": "../BinarySearch.Core/BinarySearch.Core.csproj"
+    },
+    "BinarySearch.Service/1.0.0": {
+      "type": "project",
+      "path": "../BinarySearch.Service/BinarySearch.Service.csproj",
+      "msbuildProject": "../BinarySearch.Service/BinarySearch.Service.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "BinarySearch.Service >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\burhanaddinzm\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\burhanaddinzm\\source\\repos\\BinarySearch\\BinarySearch\\BinarySearch.csproj",
+      "projectName": "BinarySearch",
+      "projectPath": "C:\\Users\\burhanaddinzm\\source\\repos\\BinarySearch\\BinarySearch\\BinarySearch.csproj",
+      "packagesPath": "C:\\Users\\burhanaddinzm\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\burhanaddinzm\\source\\repos\\BinarySearch\\BinarySearch\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\burhanaddinzm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\burhanaddinzm\\source\\repos\\BinarySearch\\BinarySearch.Service\\BinarySearch.Service.csproj": {
+              "projectPath": "C:\\Users\\burhanaddinzm\\source\\repos\\BinarySearch\\BinarySearch.Service\\BinarySearch.Service.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

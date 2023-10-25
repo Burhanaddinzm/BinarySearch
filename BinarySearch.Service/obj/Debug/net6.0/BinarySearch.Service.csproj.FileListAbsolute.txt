@@ -1,0 +1,15 @@
+C:\Users\burhanaddinzm\source\repos\BinarySearch\BinarySearch.Service\bin\Debug\net6.0\BinarySearch.Service.deps.json
+C:\Users\burhanaddinzm\source\repos\BinarySearch\BinarySearch.Service\bin\Debug\net6.0\BinarySearch.Service.dll
+C:\Users\burhanaddinzm\source\repos\BinarySearch\BinarySearch.Service\bin\Debug\net6.0\BinarySearch.Service.pdb
+C:\Users\burhanaddinzm\source\repos\BinarySearch\BinarySearch.Service\bin\Debug\net6.0\BinarySearch.Core.dll
+C:\Users\burhanaddinzm\source\repos\BinarySearch\BinarySearch.Service\bin\Debug\net6.0\BinarySearch.Core.pdb
+C:\Users\burhanaddinzm\source\repos\BinarySearch\BinarySearch.Service\obj\Debug\net6.0\BinarySearch.Service.csproj.AssemblyReference.cache
+C:\Users\burhanaddinzm\source\repos\BinarySearch\BinarySearch.Service\obj\Debug\net6.0\BinarySearch.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burhanaddinzm\source\repos\BinarySearch\BinarySearch.Service\obj\Debug\net6.0\BinarySearch.Service.AssemblyInfoInputs.cache
+C:\Users\burhanaddinzm\source\repos\BinarySearch\BinarySearch.Service\obj\Debug\net6.0\BinarySearch.Service.AssemblyInfo.cs
+C:\Users\burhanaddinzm\source\repos\BinarySearch\BinarySearch.Service\obj\Debug\net6.0\BinarySearch.Service.csproj.CoreCompileInputs.cache
+C:\Users\burhanaddinzm\source\repos\BinarySearch\BinarySearch.Service\obj\Debug\net6.0\BinarySearch.Service.csproj.CopyComplete
+C:\Users\burhanaddinzm\source\repos\BinarySearch\BinarySearch.Service\obj\Debug\net6.0\BinarySearch.Service.dll
+C:\Users\burhanaddinzm\source\repos\BinarySearch\BinarySearch.Service\obj\Debug\net6.0\refint\BinarySearch.Service.dll
+C:\Users\burhanaddinzm\source\repos\BinarySearch\BinarySearch.Service\obj\Debug\net6.0\BinarySearch.Service.pdb
+C:\Users\burhanaddinzm\source\repos\BinarySearch\BinarySearch.Service\obj\Debug\net6.0\ref\BinarySearch.Service.dll
